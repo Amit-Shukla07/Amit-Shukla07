@@ -4,9 +4,9 @@
   <b>Software Engineer · Full-Stack Development · Backend Systems · System Design</b>
 </p>
 
-<!-- Banner / Pixel Art Header -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b5,100:0e75b6&height=180&section=header&text=Amit%20Shukla&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -15,11 +15,10 @@
 
 <!-- Top Social & Contact Buttons -->
 <p align="center">
-  <a href="https://portfolio-placeholder.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=polygon&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amit-shukla-5825bb254" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:itsamitshukla01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com" target="_blank"><img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
@@ -28,15 +27,15 @@
 
 I'm a Computer Science undergraduate focused on crafting high-performance backend systems, distributed architectures, and scalable full-stack applications.
 
-Currently building real-time service health monitoring infrastructure using **Spring Boot** and **React**, engineered for low-latency availability metrics and automated uptime detection.
+My primary engineering focus centers on building resilient software architectures — from designing clean REST/gRPC APIs and database schemas to optimizing request latency and concurrency patterns.
 
-Beyond full-stack engineering, I spend a significant amount of time under the hood of core computer science — tackling complex algorithmic challenges, optimizing system concurrency, and diving deep into memory management in **C++** and **Python**.
+Beyond full-stack development, I spend a significant amount of time under the hood of core computer science — tackling complex algorithmic challenges, optimizing data structures, and diving deep into low-level execution and memory management in **C++** and **Python**.
 
-Whether it's designing clean REST/gRPC APIs, architecting database schemas, or benchmarking execution bottlenecks, I thrive on writing maintainable, production-ready code built to scale.
+Whether architecting cloud-native services or benchmarking execution bottlenecks, I thrive on writing modular, production-ready code built to scale.
 
 - ⚙️ **Core Engineering:** Backend Architecture, Distributed Systems, Database Design & Microservices
 - 🧩 **Problem Solving:** Competitive Programming & Algorithmic Optimization (C++17 / C++20)
-- 🚀 **Current Endeavors:** System Design, Cloud Infrastructure & Real-Time Data Pipelines
+- 🚀 **Current Endeavors:** System Design, Cloud Infrastructure & High-Throughput APIs
 
 ---
 
@@ -90,7 +89,6 @@ Whether it's designing clean REST/gRPC APIs, architecting database schemas, or b
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -107,14 +105,21 @@ Whether it's designing clean REST/gRPC APIs, architecting database schemas, or b
 ## Analytics & Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Amit-Shukla07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Shukla07&theme=dracula" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Amit-Shukla07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Shukla07&theme=tokyonight" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Shukla07&layout=compact&theme=dracula&hide=html,css" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Shukla07&layout=compact&theme=tokyonight&hide=html,css" />
+</div>
+
+<br />
+
+<!-- Snake Contribution Grid Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Amit-Shukla07/Amit-Shukla07/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
@@ -122,6 +127,6 @@ Whether it's designing clean REST/gRPC APIs, architecting database schemas, or b
 ## Contact
 
 <p>
-  <a href="mailto:itsamitshukla01@gmail.com"><img src="https://img.shields.io/badge/Email-your.email@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/amit-shukla-5825bb254"><img src="https://img.shields.io/badge/LinkedIn-Amit_Shukla-0077b5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:itsamitshukla01@gmail.com"><img src="https://img.shields.io/badge/Email-amitshukla@example.com-d14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amit-shukla-5825bb254" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Amit_Shukla-0077b5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
